@@ -1,2 +1,12 @@
-# my-first-repo
-A repository for learning GitHub for my CSC 222 class
+# My First Repository
+
+Hi, I'm Prashant Ghalan. I'm a college student at Blue Ridge Community College pursuing my Computer Science degree. I'm in CSC 222 learning GitHub.
+
+## About Me
+- I'm learning Python programming
+- My hobbies are:
+  - Gaming
+  - Watching movies
+  - Playing soccer
+  - Hiking
+  - Watching comedy serials
