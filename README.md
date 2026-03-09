@@ -1,7 +1,5 @@
 # My First Repository
 
-Profile Picture(profile.jpg)
-
 Hi, I'm Prashant Ghalan. I'm a college student at Blue Ridge Community College pursuing my Computer Science degree. I'm in CSC 222 learning GitHub.
 
 ## About Me
@@ -14,3 +12,4 @@ Hi, I'm Prashant Ghalan. I'm a college student at Blue Ridge Community College p
   - Watching comedy serials
 
 I loved this Repo!!
+![Pink Flower](https://github.com/user-attachments/assets/8fbc5b77-e4a1-4fd0-b9f2-9b4c17ef026a)
